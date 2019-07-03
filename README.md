@@ -1,4 +1,4 @@
-# Social Mapper
+# Nebula Eye
 ![alt text](https://img.shields.io/badge/Python-2.7_only-blue.svg "Python 2.7 only")
 ![alt text](https://img.shields.io/travis/SpiderLabs/social_mapper.svg "Travis build status")
 
